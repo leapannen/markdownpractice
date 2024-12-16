@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](markdownpractice/meelkers.md)
+[Contribution guidelines for this project](/meelkers.md)
