@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](docs/meelkers.md)
+[Contribution guidelines for this project](main/meelkers.md)
